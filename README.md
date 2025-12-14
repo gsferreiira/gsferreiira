@@ -70,19 +70,6 @@ Aqui estão as tecnologias que uso no dia a dia e as que estou dedicando tempo p
 
 ---
 
-### 🏆 Minhas Estatísticas do GitHub (The Fun Stuff!)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[gsferreiira]&theme=nord&no-frame=true&row=1&column=4" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[gsferreiira]&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[gsferreiira]&layout=compact&langs_count=6&theme=nord&hide_border=true"/>
-</p>
-
----
-
 ### 🤝 Conecte-se Comigo
 
 Estou sempre aberto a novas conexões e trocar ideias sobre tecnologia e estudos. Vamos crescer juntos!
