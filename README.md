@@ -27,7 +27,7 @@ Aqui estão as tecnologias que uso no dia a dia e as que estou dedicando tempo p
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   
-  <br><br>
+  <br>
 
   **Backend & Banco de Dados**
   <br>
