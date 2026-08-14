@@ -65,6 +65,10 @@ Sistema de automação de uma ponte elevatória, com sincronização de 4 motore
 
 ### Atividade
 
-![Snake animation](https://raw.githubusercontent.com/gsferreiira/gsferreiira/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gsferreiira/gsferreiira/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gsferreiira/gsferreiira/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/gsferreiira/gsferreiira/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
